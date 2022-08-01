@@ -21,3 +21,12 @@ You can click the Preview link to take a look at your changes.
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+- :telescope: I’m interested in information technology, mobile applications and games.
+
+- :seedling: I’m currently studying swift
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@AlexDolm-gray?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url)
