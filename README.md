@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - :seedling: I’m currently studying swift
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://t.me/AleksDolm-@AleksDolm-gray?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@AleksDolm-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/AleksDolm)
 
 
 ---
