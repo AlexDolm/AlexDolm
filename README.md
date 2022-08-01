@@ -36,13 +36,16 @@ You can click the Preview link to take a look at your changes.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://user-images.githubusercontent.com/102039320/182184985-64b0a273-3e72-476c-9569-0a6a360ab7f5.png" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/102039320/182185206-9f4a6c18-fb40-4bba-a4f2-418ae4a80d1c.png" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/102039320/182184849-38659048-ab42-4447-b1df-aaa12cab5999.svg" title="Cocoa" alt="Cocoa" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/102039320/182185669-efe6f49d-0c8a-44e9-b874-44bba450b96e.svg" title="UIKit" alt="UIKit" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/102039320/182186306-896a979f-dc7a-4171-98f2-49db79494aa1.png" title="api" alt="api" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/102039320/182186504-eb244501-9941-4618-84c4-dcac9a64c292.png" title="json" alt="json " width="40" height="40"/>&nbsp;
-
+  <img src="https://user-images.githubusercontent.com/102039320/182188541-23ff0d1a-e740-4867-898e-40e718695453.png" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188627-fd3ffd38-9847-409a-aafb-d052f1d80257.png" title="cocoatouch" alt="cocoatouch" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188631-310f59a9-8f44-4228-899b-ef69b813cb05.png" title="coredata" alt="coredata" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188632-bc57e6cc-8e7e-4c16-b0cd-eb16bbc38823.png" title="coreanimation" alt="coreanimation" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188636-4214af88-fd1f-4a43-afd6-4f5a07f12369.png" title="spritekit" alt="spritekit" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188639-2c2409c1-5021-435f-8b61-8bba95d15102.png" title="scenekit" alt="scenekit " width="40" height="40"/>&nbsp;
+    <img src="https://user-images.githubusercontent.com/102039320/182188642-4cc0663c-452e-4d95-9ad4-e0a235486807.png" title="widgetkit" alt="widgetkit" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188643-f6f42422-8b9c-4ff9-b76d-c97f3adf95f1.png" title="coreaudio" alt="coreaudio" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/102039320/182188645-bd34737d-5c86-4b8c-9a05-a0243d16121c.png" title="cloudkit" alt="cloudkit" width="40" height="40"/>&nbsp; 
+  <img src="https://user-images.githubusercontent.com/102039320/182188648-df19bab4-0e36-4368-be3e-a64c6c1c3935.png" title="sirikit" alt="sirikit " width="40" 
 </div>
 
 ---
