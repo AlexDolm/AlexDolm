@@ -18,12 +18,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/alexkash/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <!---
+
 </div>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=AlexDolm&style=flat-square&color=blue" alt=""/>
-</div>
---->
+
+
 
 ---
 
