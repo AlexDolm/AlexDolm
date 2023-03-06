@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ### :woman_technologist: About Me :
 - :telescope: I’m interested in information technology, mobile applications and games.
 
-- :seedling: I’m currently studying swift
+- :seedling: I’m mobile developer (IOS and some android)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@AleksDolm-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AleksDolm)
 
